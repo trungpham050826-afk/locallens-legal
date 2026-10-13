@@ -2,9 +2,9 @@
 
 **Release version:** Community v1.2
 
-**Effective date:** Pending verified publication. The publication record must state the actual effective time; this revision is not retroactive.
+**Effective date:** 14 October 2026 at 02:09:13 ICT (UTC+07:00); 2026-10-13T19:09:13Z. This version applies prospectively from this time following publication.
 
-**Status:** OWNER-APPROVED RELEASE CONTENT — publication pending; this local revision does not replace the currently published terms.
+**Status:** Published release content approved by the Product Owner. Feature activation remains subject to separate security and operational checks.
 
 **Contact:** [locallens.org@gmail.com](mailto:locallens.org@gmail.com)
 
@@ -14,7 +14,7 @@ LocalLens is a travel planning application for organizing itineraries, saving pl
 
 LocalLens is developed and operated by an individual as a personal project, without a separate legal entity. References to "LocalLens" in these Terms mean the project and its individual operator. Questions about the project or these Terms can be sent to [locallens.org@gmail.com](mailto:locallens.org@gmail.com).
 
-Once published with a confirmed effective date, these Terms apply together with the [Privacy Policy](privacy.html) and [Community Media Notice](community-media.html). This local revision does not itself activate a feature or publish private content.
+From the effective time stated above, these Terms apply together with the [Privacy Policy](privacy.html) and [Community Media Notice](community-media.html). Publication does not itself activate a feature or publish private content.
 
 ## 2. Community Features
 
@@ -87,7 +87,7 @@ For questions, content reports, or complaints, contact:
 
 ## 10. Tiếng Việt — nội dung chính
 
-**Phiên bản:** Community v1.2. **Hiệu lực:** chờ xác minh công bố thực tế; không hồi tố. Bản local đã được Owner cho phép hoàn thiện để phát hành, chưa thay thế chính sách đang công bố.
+**Phiên bản:** Community v1.2. **Hiệu lực:** 14/10/2026 02:09:13 (UTC+07:00), sau khi công bố; không hồi tố. Owner đã duyệt nội dung phát hành.
 
 LocalLens là dự án do cá nhân phát triển và vận hành, chưa có pháp nhân riêng. Community khi được phát hành dành cho tài khoản đã đăng nhập hợp lệ, có thể gồm Places, Reviews, ratings, media được chọn, Reports, Blocks và Feed. Nội dung được duyệt có thể hiển thị cho mọi người dùng Community hợp lệ, không chỉ A/B QA hoặc nhóm chuyến đi. Mỗi tính năng còn phụ thuộc kiểm tra vận hành và bảo mật.
 

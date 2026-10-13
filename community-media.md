@@ -2,9 +2,9 @@
 
 **Release version:** Community v1.2
 
-**Effective date:** Pending verified publication; use the actual publication/effective time, never a retroactive date.
+**Effective date:** 14 October 2026 at 02:09:13 ICT (UTC+07:00); 2026-10-13T19:09:13Z. This version applies prospectively from this time following publication.
 
-**Status:** OWNER-APPROVED RELEASE CONTENT — publication pending. This local file does not activate features or replace the currently published policies.
+**Status:** Published release content approved by the Product Owner. Feature activation remains subject to separate security and operational checks.
 
 **Contact:** [locallens.org@gmail.com](mailto:locallens.org@gmail.com)
 

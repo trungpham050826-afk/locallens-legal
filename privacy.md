@@ -2,9 +2,9 @@
 
 **Release version:** Community v1.2
 
-**Effective date:** Pending verified publication. The publication record must state the actual effective time; this revision is not retroactive.
+**Effective date:** 14 October 2026 at 02:09:13 ICT (UTC+07:00); 2026-10-13T19:09:13Z. This version applies prospectively from this time following publication.
 
-**Status:** OWNER-APPROVED RELEASE CONTENT — publication pending; this local revision does not replace the currently published policy.
+**Status:** Published release content approved by the Product Owner. Feature activation remains subject to separate security and operational checks.
 
 **Contact:** [locallens.org@gmail.com](mailto:locallens.org@gmail.com)
 
@@ -14,7 +14,7 @@ LocalLens is a travel planning application that helps users organize trips, disc
 
 LocalLens is developed and operated by an individual as a personal project, without a separate legal entity. References to "LocalLens" in this Policy mean the project and its individual operator. The individual operator handles privacy inquiries and data requests through [locallens.org@gmail.com](mailto:locallens.org@gmail.com).
 
-This Privacy Policy describes information processed when using LocalLens and its available Community features. This owner-approved local revision awaits actual publication; it does not itself activate features or retention operations.
+This Privacy Policy describes information processed when using LocalLens and its available Community features. This revision applies from the effective time above; publication does not itself activate features or retention operations.
 
 Community may include Places, Reviews and ratings, explicitly selected photo/video attachments, Reports, Blocks, Moderation and a feed of approved content. Availability depends on release checks and account eligibility. Private memories and review attachments are separate; their existence does not permit automatic Community uploads. GPS/partner verification and Smart Discover are not represented as active by this notice.
 
@@ -95,7 +95,7 @@ No online service can guarantee absolute security.
 
 LocalLens may update this Privacy Policy when features, data practices, or legal requirements change.
 
-Approved revisions should identify their version and effective date. Material changes will be communicated where required. This revision is owner-approved for release preparation but is not effective until actual publication with a confirmed effective time.
+Approved revisions should identify their version and effective date. Material changes will be communicated where required. This revision applies prospectively from the effective time above, following publication.
 
 ## 10. Contact
 
@@ -105,7 +105,7 @@ For privacy questions or requests:
 
 ## 11. Tiếng Việt — thông tin quyền riêng tư
 
-**Phiên bản:** Community v1.2. **Hiệu lực:** chờ công bố thực tế; không hồi tố. LocalLens do cá nhân vận hành; liên hệ locallens.org@gmail.com. Bản local chưa phải chính sách đã công bố.
+**Phiên bản:** Community v1.2. **Hiệu lực:** 14/10/2026 02:09:13 (UTC+07:00), sau khi công bố; không hồi tố. LocalLens do cá nhân vận hành; liên hệ locallens.org@gmail.com. Việc công bố không tự kích hoạt tính năng.
 
 Tùy tính năng được dùng, LocalLens xử lý thông tin account/profile, Trips, dữ liệu riêng tư local, review/rating, consent/phiên bản điều khoản, media bạn chủ động chọn, Reports, Blocks và records kiểm duyệt/bảo mật. Tự khai visit chỉ lưu thông tin bạn cung cấp; không mặc nhiên lấy GPS hay xác minh đi thực địa. Tính năng đang OFF không tự thu thập bằng chứng mới.
 
